@@ -5,3 +5,6 @@ Lily Ewing
 Josey Ewing
 Colette Ewing
 Lucy Ewing
+
+Bob Ewing
+Scott Ewing
